@@ -21,4 +21,3 @@ void Modelo::print() const {
 bool Modelo::operator<(const Modelo& outro) const {
     return ref < outro.ref;
 }
-fasfasfas
